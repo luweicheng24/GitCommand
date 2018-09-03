@@ -9,5 +9,7 @@ package luwei.com.gitcommand;
 
 public class NewFile {
 
-    // merge 
+    // modifys
+    // no stores
+    //  this appends
 }
