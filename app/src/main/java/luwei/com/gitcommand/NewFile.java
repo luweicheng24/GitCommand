@@ -14,5 +14,6 @@ public class NewFile {
 
     // append
 
-    // merge from bugfix 01
+    // merge from bugfix 01 and 02
+
 }
