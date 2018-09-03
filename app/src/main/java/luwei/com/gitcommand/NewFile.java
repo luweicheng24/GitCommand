@@ -8,4 +8,9 @@ package luwei.com.gitcommand;
  **/
 
 public class NewFile {
+    // modify
+
+    // no store
+
+    // append
 }
