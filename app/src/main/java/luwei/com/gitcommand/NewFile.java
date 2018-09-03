@@ -8,4 +8,6 @@ package luwei.com.gitcommand;
  **/
 
 public class NewFile {
+
+    // merge 
 }
