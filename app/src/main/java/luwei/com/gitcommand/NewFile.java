@@ -12,4 +12,8 @@ public class NewFile {
     // modifys
     // no stores
     //  this appends
+
+    // append
+
+    // merge from bugfix 01 and 02
 }
