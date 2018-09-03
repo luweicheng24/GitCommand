@@ -12,6 +12,7 @@ public class NewFile {
 
     // no stores
 
-    //  this appends
-    // bug fix master
+    // append
+
+    // merge from bugfix 01
 }
