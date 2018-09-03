@@ -14,5 +14,5 @@ public class NewFile {
 
     // append
 
-    // bugfix 01
+    // bugfix 02
 }
