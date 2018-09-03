@@ -8,12 +8,12 @@ package luwei.com.gitcommand;
  **/
 
 public class NewFile {
-    // modifys
 
+    // modifys
     // no stores
+    //  this appends
 
     // append
 
     // merge from bugfix 01 and 02
-
 }
